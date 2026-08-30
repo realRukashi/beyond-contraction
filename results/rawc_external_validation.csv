@@ -1,0 +1,10 @@
+model,layer,spearman_human_relatedness,same_different_sense_auc
+BERT,4,0.503,0.818
+BERT,8,0.604,0.859
+BERT,12,0.572,0.842
+RoBERTa,4,0.502,0.804
+RoBERTa,8,0.586,0.850
+RoBERTa,12,0.581,0.847
+DeBERTa-v3,4,0.693,0.877
+DeBERTa-v3,8,0.691,0.912
+DeBERTa-v3,12,0.438,0.764

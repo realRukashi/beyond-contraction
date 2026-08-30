@@ -1,0 +1,27 @@
+cff-version: 1.2.0
+message: "If you use the scientific results, please cite the preferred citation below. If you reuse the code, cite this repository release."
+title: "Beyond Contraction: Contextual Evidence Separates Lexical Senses Without Universal Within-Sense Collapse"
+type: software
+authors:
+  - family-names: "Hồ"
+    given-names: "Ngọc Huy"
+    orcid: "https://orcid.org/0009-0007-4156-352X"
+version: 0.1.0
+date-released: 2026-08-30
+license: MIT
+keywords:
+  - contextual embeddings
+  - lexical ambiguity
+  - word sense disambiguation
+  - representation geometry
+  - linear probing
+  - LEACE
+preferred-citation:
+  type: article
+  authors:
+    - family-names: "Hồ"
+      given-names: "Ngọc Huy"
+      orcid: "https://orcid.org/0009-0007-4156-352X"
+  title: "Beyond Contraction: Contextual Evidence Separates Lexical Senses Without Universal Within-Sense Collapse"
+  year: 2026
+  notes: "Exploratory preprint; not peer reviewed."

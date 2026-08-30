@@ -1,0 +1,15 @@
+# Ranges mirror the executed notebook setup cells where available.
+numpy
+pandas
+pyarrow
+matplotlib
+scipy
+scikit-learn
+tqdm
+torch
+accelerate
+datasets>=2.18,<4
+transformers>=4.43,<5
+sentencepiece
+concept-erasure
+jupyterlab

@@ -1,0 +1,9 @@
+claim,summary_value,scope
+Controlled between-sense differentiation,45/45 positive aggregate model-layer-evidence cells,descriptive sign count; cells are not independent replications
+Nested sense accessibility,+0.265 nats mean diagnostic-minus-control,aggregate grid
+Nested update sense-subspace energy,+0.032 mean diagnostic-minus-control,supervised descriptive subspace
+Nested CKA with base,-0.050 mean diagnostic-minus-control,lower structural similarity to identical pre-cue state
+Fresh old-context decoder,+0.00194 cosine diagnostic-minus-control,fixed TF-IDF/SVD target
+Base-trained decoder transfer,-0.00802 cosine diagnostic-minus-control,fixed TF-IDF/SVD target
+LEACE old-context relative loss,about 1.0-1.5 percent,averaged across base sizes
+RAW-C human-relatedness Spearman,0.438-0.693,descriptive across model-layer settings

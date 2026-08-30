@@ -1,0 +1,7 @@
+model,layer,context_pre,context_post_fresh,context_post_frozen,relative_loss_percent
+BERT,8,0.1785,0.1762,0.1762,1.27
+BERT,12,0.1802,0.1784,0.1785,1.00
+RoBERTa,8,0.1754,0.1736,0.1736,1.06
+RoBERTa,12,0.1867,0.1848,0.1848,1.00
+DeBERTa-v3,8,0.1821,0.1798,0.1799,1.30
+DeBERTa-v3,12,0.1572,0.1549,0.1548,1.50

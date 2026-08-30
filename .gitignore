@@ -1,0 +1,36 @@
+# Python / notebooks
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.venv/
+venv/
+.env
+
+# Model and embedding caches
+**/cache/
+*.npy
+*.npz
+*.pt
+*.pth
+*.safetensors
+
+# Locally downloaded datasets / intermediate artifacts
+data/raw/
+data/cache/
+**/test_variants.parquet
+**/train_variants.parquet
+
+# Notebook-generated output folders (paper-facing summaries in /results stay tracked)
+semantic_disambiguation_geometry_outputs/
+semantic_disambiguation_geometry_v2_outputs/
+semantic_disambiguation_geometry_v3/
+semantic_disambiguation_geometry_v4_nested/
+semantic_disambiguation_geometry_v5_final/
+
+# LaTeX build products
+paper/*.aux
+paper/*.log
+paper/*.out
+paper/*.fls
+paper/*.fdb_latexmk
+paper/*.synctex.gz
